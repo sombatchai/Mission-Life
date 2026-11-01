@@ -112,7 +112,6 @@ npm install
 node BackendSystem/Server.js
 ```
 
-เปิด http://localhost:3000/Login.html
 
 ต้องมีไฟล์ `Admin/BackendSystem/serviceAccountKey.json` ของโปรเจค Firebase ตัวเอง (ดาวน์โหลดได้จาก Firebase Console → Project settings → Service accounts) ไฟล์นี้เป็นความลับ **ห้าม commit ขึ้น GitHub**
 
